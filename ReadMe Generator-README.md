@@ -32,6 +32,6 @@ See installation guide
 
 <a name="questions"></a>
 ## Questions
-Please feel free to contact me with any questions or ideas for future projects!
-GitHub: [Bcz25](https://github.com/Bcz25)
+Please feel free to contact me with any questions or ideas for future projects!<br>
+GitHub: [Bcz25](https://github.com/Bcz25)<br>
 Email: brettcz@outlook.com

@@ -92,8 +92,8 @@ ${response.test}
 
 <a name="questions"></a>
 ## Questions
-Please feel free to contact me with any questions or ideas for future projects!
-GitHub: [${response.github}](https://github.com/${response.github})
+Please feel free to contact me with any questions or ideas for future projects!<br>
+GitHub: [${response.github}](https://github.com/${response.github})<br>
 Email: ${response.email}
 `;
 }
