@@ -11,8 +11,8 @@ y
 * [Questions](#questions)
 
 <a name="license"></a>
-## License
-MIT ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+## License ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+MIT
 https://choosealicense.com/licenses/mit/
 
 <a name="install"></a>
