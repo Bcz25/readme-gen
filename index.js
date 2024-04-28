@@ -34,6 +34,16 @@ inquirer.prompt([
         name: 'github'
     },
     {
+        message: 'Lets add a screen shot of your application! What is the name of the GitHub repo this project is in?',
+        default: 'Type exacly as it appears in GitHub after the /',
+        name: 'repo'
+    },
+    {
+        message: 'What is the screenshot named?',
+        default: 'EX: image.png, This image should be located in the main folder of your repo',
+        name: 'usage'
+    },
+    {
         message: 'What is your email?',
         name: 'email'
     },
@@ -62,8 +72,8 @@ ${response.desc}
 
 <a name="license"></a>
 ## License
-## ${response.lic} ${renderLicenseBadge(response.lic)}
-## ${renderLicenseLink(response.lic)}
+${response.lic} ${renderLicenseBadge(response)}
+${renderLicenseLink(response)}
 
 <a name="install"></a>
 ## Installation
@@ -71,7 +81,7 @@ ${response.installation}
 
 <a name="use"></a>
 ## Usage
-${response.usage}
+[${response.usage}](https://github.com/${response.github}/${response.repo}/blob/main/${response.usage})
 
 <a name="contributing"></a>
 ## Contributing
