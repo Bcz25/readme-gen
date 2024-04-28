@@ -1,5 +1,5 @@
 
-# bcz
+# bcz ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 y
 
 ## Table Of Contents
@@ -11,8 +11,7 @@ y
 * [Questions](#questions)
 
 <a name="license"></a>
-## License ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-MIT
+## License - MIT
 https://choosealicense.com/licenses/mit/
 
 <a name="install"></a>
