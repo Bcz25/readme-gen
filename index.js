@@ -59,7 +59,7 @@ inquirer.prompt([
 
 function generateReadMe(response) {
 return`
-# ${response.project}
+# ${response.project} ${renderLicenseBadge(response)}
 ${response.desc}
 
 ## Table Of Contents
@@ -71,8 +71,7 @@ ${response.desc}
 * [Questions](#questions)
 
 <a name="license"></a>
-## License
-${response.lic} ${renderLicenseBadge(response)}
+## License - ${response.lic}
 ${renderLicenseLink(response)}
 
 <a name="install"></a>
@@ -81,7 +80,7 @@ ${response.installation}
 
 <a name="use"></a>
 ## Usage
-[${response.usage}](https://github.com/${response.github}/${response.repo}/blob/main/${response.usage})
+![${response.usage}](https://github.com/${response.github}/${response.repo}/blob/main/${response.usage})
 
 <a name="contributing"></a>
 ## Contributing

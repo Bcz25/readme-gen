@@ -1,5 +1,5 @@
 
-# ReadMe Generator
+# ReadMe Generator ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 This project was made in order to build out a dynamic CLI that will build a README file using the input from the user in the command line.
 
 ## Table Of Contents
@@ -11,25 +11,24 @@ This project was made in order to build out a dynamic CLI that will build a READ
 * [Questions](#questions)
 
 <a name="license"></a>
-## License
-## MIT 
-## 
+## License - MIT
+https://choosealicense.com/licenses/mit/
 
 <a name="install"></a>
 ## Installation
-copy the code to index.js file and run " node index.js " in terminal.
+Copy the code to index.js file and run " node index.js " in terminal.
 
 <a name="use"></a>
 ## Usage
-undefined
+![appSS.png](https://github.com/Bcz25/readme-gen/blob/main/appSS.png)
 
 <a name="contributing"></a>
 ## Contributing
-Be chill
+Have Fun!
 
 <a name="test"></a>
 ## Tests
-See Instalation
+See installation guide
 
 <a name="questions"></a>
 ## Questions
