@@ -20,7 +20,7 @@ y
 
 <a name="use"></a>
 ## Usage
-[appss.png](https://github.com/Bcz25/readme-gen/blob/main/appss.png)
+![appss.png](https://github.com/Bcz25/readme-gen/blob/main/appss.png)
 
 <a name="contributing"></a>
 ## Contributing
