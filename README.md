@@ -2,16 +2,13 @@
 This project was made in order to build out a dynamic CLI that will build a README file using the input from the user in the command line.
 
 ## Table Of Contents
-* [License](#license)   
 * [Installation](#install)
 * [Usage](#use)
 * [Contributing](#contributing)
 * [Tests](#test)
 * [Questions](#questions)
+* [License](#license)   
 
-<a name="license"></a>
-## License - MIT
-https://choosealicense.com/licenses/mit/
 
 <a name="install"></a>
 ## Installation
@@ -39,3 +36,6 @@ Please feel free to contact me with any questions or ideas for future projects!<
 GitHub: [Bcz25](https://github.com/Bcz25)<br>
 Email: brettcz@outlook.com
 
+<a name="license"></a>
+## License - MIT
+https://choosealicense.com/licenses/mit/
