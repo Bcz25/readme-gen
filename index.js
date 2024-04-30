@@ -48,7 +48,7 @@ inquirer.prompt([
         name: 'email'
     },
 ]).then((response) => {
-    fs.writeFile(`${response.project}-README.md`, generateReadMe(response) , err => {
+    fs.writeFile(`${response.project.toLowerCase().split(" ").join("")}-README.md`, generateReadMe(response) , err => {
         if (err) {
           console.error(err);
         } else {
