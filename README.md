@@ -15,7 +15,11 @@ https://choosealicense.com/licenses/mit/
 
 <a name="install"></a>
 ## Installation
-Copy the code to index.js file and run " node index.js " in terminal.
+Open terminal
+run 'npm init -y'
+run 'npm i inquirer@8.2.4'
+Copy the code to index.js file
+In terminal run 'node index.js'
 
 <a name="use"></a>
 ## Usage
@@ -34,3 +38,4 @@ See installation guide
 Please feel free to contact me with any questions or ideas for future projects!<br>
 GitHub: [Bcz25](https://github.com/Bcz25)<br>
 Email: brettcz@outlook.com
+

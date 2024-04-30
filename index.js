@@ -59,7 +59,7 @@ inquirer.prompt([
 
 function generateReadMe(response) {
 return`
-# ${response.project} ${renderLicenseBadge(response)}
+# ${response.project} ${showLicenseBadge(response)}
 ${response.desc}
 
 ## Table Of Contents
@@ -72,7 +72,7 @@ ${response.desc}
 
 <a name="license"></a>
 ## License - ${response.lic}
-${renderLicenseLink(response)}
+${showLicenseLink(response)}
 
 <a name="install"></a>
 ## Installation
@@ -95,10 +95,14 @@ ${response.test}
 Please feel free to contact me with any questions or ideas for future projects!<br>
 GitHub: [${response.github}](https://github.com/${response.github})<br>
 Email: ${response.email}
+
+<a name="license"></a>
+## License - ${response.lic}
+${showLicenseLink(response)}
 `;
 }
 
-function renderLicenseBadge(response) {
+function showLicenseBadge(response) {
     let badge = '';
     if(response.lic === 'MIT') {
         badge = '![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)'
@@ -112,7 +116,7 @@ function renderLicenseBadge(response) {
     return badge;
 }
 
-function renderLicenseLink(response) {
+function showLicenseLink(response) {
     let licenseLink = '';
       if(response.lic === 'MIT') {
         licenseLink = 'https://choosealicense.com/licenses/mit/'
