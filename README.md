@@ -24,7 +24,7 @@ This project was made in order to build out a dynamic CLI that will build a READ
 
 <a name="contributing"></a>
 ## Contributing
-Have Fun!
+Be Cool
 
 <a name="test"></a>
 ## Tests
