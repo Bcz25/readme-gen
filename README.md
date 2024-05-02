@@ -12,7 +12,11 @@ This project was made in order to build out a dynamic CLI that will build a READ
 
 <a name="install"></a>
 ## Installation
-* Open terminal<br>* Run'npm init -y'<br>* Run 'npm i inquirer@8.2.4'<br>* Copy the code to index.js file<br>* In terminal run 'node index.js'
+* Open terminal
+* Run'npm init -y'
+* Run 'npm i inquirer@8.2.4'
+* Copy the code to index.js file
+* In terminal run 'node index.js'
 
 <a name="use"></a>
 ## Usage
