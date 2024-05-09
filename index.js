@@ -70,10 +70,6 @@ ${response.desc}
 * [Tests](#test)
 * [Questions](#questions)
 
-<a name="license"></a>
-## License - ${response.lic}
-${showLicenseLink(response)}
-
 <a name="install"></a>
 ## Installation
 ${response.installation}
