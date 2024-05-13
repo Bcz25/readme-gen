@@ -20,9 +20,7 @@ This project was made in order to build out a dynamic CLI that will build a READ
 
 <a name="use"></a>
 ## Usage
-
-https://github.com/Bcz25/readme-gen/assets/160162513/6b68b25f-7628-4ca3-b998-2501422f184f
-
+https://github.com/Bcz25/readme-gen/assets/160162513/d7daa044-9148-4414-9822-b8b4fdf10654
 
 <a name="contributing"></a>
 ## Contributing
