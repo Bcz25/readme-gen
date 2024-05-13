@@ -20,7 +20,7 @@ This project was made in order to build out a dynamic CLI that will build a READ
 
 <a name="use"></a>
 ## Usage
-![appSS.png](https://github.com/Bcz25/readme-gen/blob/main/appSS.png)
+![appDemo.mov](https://github.com/Bcz25/readme-gen/blob/main/appDemo.mov)
 
 <a name="contributing"></a>
 ## Contributing
