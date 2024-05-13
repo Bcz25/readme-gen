@@ -20,7 +20,9 @@ This project was made in order to build out a dynamic CLI that will build a READ
 
 <a name="use"></a>
 ## Usage
-![appDemo.mov](https://github.com/Bcz25/readme-gen/blob/main/appDemo.mov)
+
+https://github.com/Bcz25/readme-gen/assets/160162513/6b68b25f-7628-4ca3-b998-2501422f184f
+
 
 <a name="contributing"></a>
 ## Contributing
